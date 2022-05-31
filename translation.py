@@ -33,14 +33,14 @@ __ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ғᴏʀ ᴀ ᴄʜᴀɴɴᴇ
       ABOUT_TEXT = """
 📕 **𝐀𝐛𝐨𝐮𝐭 𝐌𝐞**
 
-__○ ᴍʏ ɴᴀᴍᴇ : [CapXbot](https://t.me/Avishkarpatil)__
+__○ ᴍʏ ɴᴀᴍᴇ : [mr.dasappan](https://t.me/mr_dasappan_malayalam)__
 __○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ __
 __○ ғʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏʀᴏɢʀᴀᴍ __
 __○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ __
 __○ ᴠᴇʀsɪᴏɴ : 2.0.1__
-__○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
+__○ ᴄʀᴇᴀᴛᴏʀ :  @mr_dasappan_malayalam__
  
-**[© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ](https://t.me/Avishkarpatil)**
+**[© mr.dasappan](https://t.me/mr_dasappan_malayalam)**
 """
 
       MARKDOWN_TEXT = """
@@ -59,7 +59,7 @@ __○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
 
 〰〰〰〰〰〰〰〰〰〰
 
-<b><a href="https://t.me/Avishkarpatil">© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ</a></b>
+<b><a href="https://t.me/mr_dasappan_malayalam">© mr.dasappan</a></b>
 """
 
 # Bot status display
@@ -72,7 +72,7 @@ __○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
 
 📐 <b>Current Position :</b> {}
 
-<b><a href="https://t.me/Avishkarpatil">© ᴀᴠɪsʜᴋᴀʀ ᴘᴀᴛɪʟ</a></b>
+<b><a href="https://t.me/mr_dasappan_malayalam">© mr.dasappan</a></b>
 """
 
 
@@ -81,7 +81,7 @@ __○ ᴄʀᴇᴀᴛᴏʀ :  @AvishkarPatil__
 ○ <b> I Am Available Open Source on Github 
       Click Below Link And Deploy Me Now </b>
 
-○ <i>DEPLOY</i> : <b><a href="https://heroku.com/deploy?template=https://github.com/avipatilpro/Caption-Bot">On Heroku</a></b>    
+○ <i>DEPLOY</i> : <b><a href="https://heroku.com/deploy?template=https://github.com/Dasappanb/Caption-Bot">On Heroku</a></b>    
 
-○ <i>SOURCE</i> : <b><a href="https://github.com/avipatilpro/Caption-Bot">Caption Bot</a></b>  
+○ <i>SOURCE</i> : <b><a href="https://github.com/Dasappanb/Caption-Bot">Caption Bot</a></b>  
 """
