@@ -7,9 +7,9 @@
     "auto",
     "caption" 
   ],
-  "success_url": "https://telegram.com/capxbot",
+  "success_url": "https://telegram.com/mr_dasappan_malayalam",
   "website": "https://github.com/avipatilpro/Caption-Bot",
-  "repository": "https://github.com/avipatilpro/Caption-Bot",
+  "repository": "https://github.com/Dasappanb/Caption-Bot",
   "logo": "https://telegra.ph/file/a3e95bf96275cb37844b1.jpg",
   "env": {
     "WEBHOOK": {
